@@ -50,3 +50,9 @@
 
 ### Fonts
 1. Fira Code
+2. Hack
+3. Source Code Pro
+
+### Database Client
+1. OmniDB
+2. pgAdmin4 (install via docker)
