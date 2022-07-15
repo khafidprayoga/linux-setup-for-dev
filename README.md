@@ -33,3 +33,7 @@
 ### Terminal
 1. Termite
 2. Tabby (Beautiful)
+
+### Shell
+1. Zsh
+2. Bash
