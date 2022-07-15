@@ -37,3 +37,16 @@
 ### Shell
 1. Zsh
 2. Bash
+
+### Localhost Port Forwarding
+1. Ngrok
+2. Tunnelto.dev
+
+### Colorscheme
+1. Gruvbox
+2. Material Theme
+3. Nord 
+4. Monokai
+
+### Fonts
+1. Fira Code
