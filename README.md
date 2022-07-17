@@ -56,3 +56,6 @@
 ### Database Client
 1. OmniDB
 2. pgAdmin4 (install via docker)
+
+### Utility
+1. clipoard-cli (install via npm), pipe text to clipboard (copy paste)
