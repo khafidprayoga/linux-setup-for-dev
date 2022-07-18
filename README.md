@@ -6,6 +6,7 @@
 3. Rust
 4. Python3
 5. Typescript Compiler
+6. OpenJDK
 
 ### VM / Container for test app
 1. Docker
@@ -59,6 +60,7 @@
 ### Database Client
 1. OmniDB
 2. pgAdmin4 (install via docker)
+3. DBeaver
 
 ### Utility
 1. clipoard-cli (install via npm), pipe text to clipboard (copy paste)
