@@ -59,3 +59,4 @@
 
 ### Utility
 1. clipoard-cli (install via npm), pipe text to clipboard (copy paste)
+2. kinto.sh (macOS keyboard mapper for Linux)
