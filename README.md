@@ -47,6 +47,9 @@
 2. Material Theme
 3. Nord 
 4. Monokai
+5. One Dark Pro
+6. Dracula
+7. Tokyo Night
 
 ### Fonts
 1. Fira Code
