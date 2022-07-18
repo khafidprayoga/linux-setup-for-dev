@@ -65,3 +65,11 @@
 ### Utility
 1. clipoard-cli (install via npm), pipe text to clipboard (copy paste)
 2. kinto.sh (macOS keyboard mapper for Linux)
+
+### Develop Backend Portfolio
+1. AWS Free Tier 
+2. CockroachDB (PostgreSQL compatible)
+3. AWS Lightsail
+4. Cloudflare (DNS Manager)
+5. Private Docker Container Registry (ECR)
+6. Github Actions CI/CD
