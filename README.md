@@ -61,6 +61,7 @@
 1. OmniDB
 2. pgAdmin4 (install via docker)
 3. DBeaver
+4. Beekeeper Studio
 
 ### Utility
 1. clipoard-cli (install via npm), pipe text to clipboard (copy paste)
