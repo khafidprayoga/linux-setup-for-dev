@@ -7,6 +7,8 @@
 4. Python3
 5. Typescript Compiler
 6. OpenJDK
+7. GNU tool chain 
+8. Protocol Buffers (Protoc)
 
 ### VM / Container for test app
 1. Docker
